@@ -1,7 +1,7 @@
 {
 	"global": "Глобальные",
 	"global.no-users": "Нет специально заданных глобальных прав пользователя.",
-	"admin": "Admin",
+	"admin": "Администратор",
 	"group-privileges": "Права групп",
 	"user-privileges": "Права пользователей",
 	"chat": "Чат",
@@ -35,8 +35,8 @@
 	"moderate": "Модерировать",
 
 	"admin-dashboard": "Dashboard",
-	"admin-categories": "Categories",
-	"admin-privileges": "Privileges",
-	"admin-users": "Users",
-	"admin-settings": "Settings"
+	"admin-categories": "Категории",
+	"admin-privileges": "Привелегии",
+	"admin-users": "Пользователи",
+	"admin-settings": "Настройки"
 }
